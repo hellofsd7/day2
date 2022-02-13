@@ -1,0 +1,26 @@
+1. console.log (typeof (1)); //output: number
+          the type of operator is "NUMBER"
+
+2.console.log (typeof (1.1)); //output: number
+            the type of operator is "NUMBER"
+
+3.console.log (typeof ('1.1')); //output: string
+             the type of operator is "STRING"
+
+4.console.log (typeof (true));  //output: boolean
+             the type of operator is "BOOLEAN"
+
+5.console.log (typeof (null));  //output: object
+              the type of operator is "OBJECT"
+
+6.console.log (typeof (undefined)); //output: undefined
+               the type of operator is "UNDEFINED"
+
+7.console.log (typeof ([])); //output: object
+                the type of operator is "OBJECT"
+
+8.console.log (typeof ({})); //output: object
+               the type of operator is "OBJECT"
+
+9.console.log (typeof (NaN)); //output: number
+               the type of operator is "NUMBER"

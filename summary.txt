@@ -1,0 +1,18 @@
+This is the summary about youtube video (browser rendering a website???)
+
+Main content of this video is 
+                     1.High level view.
+                     2.In-depth view.
+                     3.Performance Insights.
+1)Firstly i want to share about the parses:
+     1.Parser means Index Analyzer.
+     2.Input likes Token.
+     3.Output likes Parse.
+2)Tokenizer is nothing but the starting tag and ending tags.  
+3)Layout computes where a node will be on the screen.
+4)Painting computes bitmaps and composites to screen. 
+5)DOM Tree-> Render Tree
+  
+
+
+
